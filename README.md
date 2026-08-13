@@ -5,79 +5,102 @@
 
 <br/>
 
-<div align="center">
+<!-- Bio Section -->
+<div>
   <h2>Hi there, I'm Aya 👋</h2>
-  <p><em>QA Automation Engineer | Software Quality Guardian | Bug Hunter 🐛</em></p>
-  <p>I am welcome about passion in complete how tox l'an rowcommended error engineer | software quality and uninnynamusinim for a methods and neadactivita prospect.</p>
+  <p>I am passionate about software testing, finding bugs, and ensuring software quality. Dedicated to continuous learning and implementing the best practices in test automation to deliver bug-free products.</p>
 </div>
 
 <br/>
 
-<!-- Main Table for 2-column layout -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🛠️ My Tech Stack
-
-<!-- Grid for skills cards -->
-<table>
-<tr>
-<td><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /></td>
-<td><b>Selenium</b><br>UI Automation Testing</td>
-<td><img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" /></td>
-<td><b>Cypress</b><br>E2E Testing Framework</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Hamon-2088FF?style=flat-square&logo=hamon&logoColor=white" /></td>
-<td><b>Hamon</b><br>UI Automation Testing</td>
-<td><img src="https://img.shields.io/badge/Cython-ED8B00?style=flat-square&logo=cython&logoColor=white" /></td>
-<td><b>Cython</b><br>UI Automation Testing</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/React-17202C?style=flat-square&logo=react&logoColor=white" /></td>
-<td><b>React</b><br>UI Automation Yiss Testing</td>
-<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /></td>
-<td><b>Java</b><br>UE Testing Testing</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" /></td>
-<td><b>JIRA</b><br>UI Testing Testing</td>
-<td><img src="https://img.shields.io/badge/GitHub-2088FF?style=flat-square&logo=github&logoColor=white" /></td>
-<td><b>GitHub</b><br>E2E Testing Framework</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=github&logoColor=white" /></td>
-<td><b>GitHub</b><br>E2E Testing Framework</td>
-<td><img src="https://img.shields.io/badge/Foroan-FF6C37?style=flat-square&logo=forro&logoColor=white" /></td>
-<td><b>Foroan</b><br>UI Automated Testing</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Powens-ED8B00?style=flat-square&logo=powens&logoColor=white" /></td>
-<td><b>Powens</b><br>E2E Testing Framework</td>
-<td></td>
-<td></td>
-</tr>
+<!-- Tech Stack Section -->
+<h3>🛠️ My Tech Stack</h3>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=selenium" width="45" /><br>
+      <b>Selenium</b><br><sub>UI Automation Testing</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=cypress" width="45" /><br>
+      <b>Cypress</b><br><sub>E2E Testing Framework</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=react" width="45" /><br>
+      <b>React</b><br><sub>UI Automation</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=java" width="45" /><br>
+      <b>Java</b><br><sub>Automation Scripts</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="45" /><br>
+      <b>GitHub</b><br><sub>Version Control</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="45" /><br>
+      <b>Python</b><br><sub>Testing Scripts</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" /><br>
+      <b>Postman</b><br><sub>API Testing</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" /><br>
+      <b>VS Code</b><br><sub>Code Editor</sub>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<!-- Test Automation in Action (thumbnails - user must create and upload, e.g., api_test.gif, project_flows.gif, e2e_flows.gif) -->
-<h2>🚀 Test Automation in Action</h2>
-<table>
-<tr>
-<td><img src="api_test.gif" alt="API Testing Suite" width="200"/></td>
-<td><img src="project_flows.gif" alt="Project Flows" width="200"/></td>
-<td><img src="e2e_flows.gif" alt="E2E User Flow" width="200"/></td>
-</tr>
-<tr>
-<td align="center">✅ API Testing Suite</td>
-<td align="center">🔄 Project Flows</td>
-<td align="center">🖥️ E2E User Flow</td>
-</tr>
+<!-- Test Automation in Action Section -->
+<h3>🚀 Test Automation in Action</h3>
+<table align="center" width="100%">
+  <tr>
+    <!-- بدلي الروابط دي بصور الـ GIF الخاصة بمشاريعك لما تعمليها -->
+    <td align="center"><img src="https://via.placeholder.com/250x150/161b22/2ea043?text=API+Testing+Demo" width="100%" alt="API Testing Suite" style="border-radius: 10px;" /></td>
+    <td align="center"><img src="https://via.placeholder.com/250x150/161b22/3b82f6?text=Project+Flows+Demo" width="100%" alt="Project Flows" style="border-radius: 10px;" /></td>
+    <td align="center"><img src="https://via.placeholder.com/250x150/161b22/a855f7?text=E2E+User+Flow+Demo" width="100%" alt="E2E User Flow" style="border-radius: 10px;" /></td>
+  </tr>
+  <tr>
+    <td align="center">✅ <b>API Testing Suite</b></td>
+    <td align="center">🚀 <b>Project Flows</b></td>
+    <td align="center">🖥️ <b>E2E User Flow</b></td>
+  </tr>
 </table>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-## 🏆 GitHub Achievements
+<!-- GitHub Achievements Section -->
+<h3>🏆 GitHub Achievements</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aya468-svg&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<!-- GitHub Stats Graph -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aya468-svg&show_icons=true&theme=radical&hide_border=true&line_height=24" alt="Aya's GitHub Stats" />
+</div>
+
+<br/>
+
+<!-- Connect With Me Section -->
+<h3>📫 Connect with me</h3>
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="140" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Aya468-svg">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="140" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="140" />
+  </a>
+</div>
