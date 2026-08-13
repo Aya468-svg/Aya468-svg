@@ -8,42 +8,76 @@
 <div align="center">
   <h2>Hi there, I'm Aya 👋</h2>
   <p><em>QA Automation Engineer | Software Quality Guardian | Bug Hunter 🐛</em></p>
-  <p>I am passionate about ensuring software quality through robust manual and automated testing. I love breaking things to help developers build them better!</p>
+  <p>I am welcome about passion in complete how tox l'an rowcommended error engineer | software quality and uninnynamusinim for a methods and neadactivita prospect.</p>
 </div>
 
 <br/>
+
+<!-- Main Table for 2-column layout -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🛠️ My Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</div>
+<!-- Grid for skills cards -->
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" /></td>
+<td><b>Selenium</b><br>UI Automation Testing</td>
+<td><img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" /></td>
+<td><b>Cypress</b><br>E2E Testing Framework</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Hamon-2088FF?style=flat-square&logo=hamon&logoColor=white" /></td>
+<td><b>Hamon</b><br>UI Automation Testing</td>
+<td><img src="https://img.shields.io/badge/Cython-ED8B00?style=flat-square&logo=cython&logoColor=white" /></td>
+<td><b>Cython</b><br>UI Automation Testing</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/React-17202C?style=flat-square&logo=react&logoColor=white" /></td>
+<td><b>React</b><br>UI Automation Yiss Testing</td>
+<td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /></td>
+<td><b>Java</b><br>UE Testing Testing</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" /></td>
+<td><b>JIRA</b><br>UI Testing Testing</td>
+<td><img src="https://img.shields.io/badge/GitHub-2088FF?style=flat-square&logo=github&logoColor=white" /></td>
+<td><b>GitHub</b><br>E2E Testing Framework</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=github&logoColor=white" /></td>
+<td><b>GitHub</b><br>E2E Testing Framework</td>
+<td><img src="https://img.shields.io/badge/Foroan-FF6C37?style=flat-square&logo=forro&logoColor=white" /></td>
+<td><b>Foroan</b><br>UI Automated Testing</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Powens-ED8B00?style=flat-square&logo=powens&logoColor=white" /></td>
+<td><b>Powens</b><br>E2E Testing Framework</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 <br/>
+
+<!-- Test Automation in Action (thumbnails - user must create and upload, e.g., api_test.gif, project_flows.gif, e2e_flows.gif) -->
+<h2>🚀 Test Automation in Action</h2>
+<table>
+<tr>
+<td><img src="api_test.gif" alt="API Testing Suite" width="200"/></td>
+<td><img src="project_flows.gif" alt="Project Flows" width="200"/></td>
+<td><img src="e2e_flows.gif" alt="E2E User Flow" width="200"/></td>
+</tr>
+<tr>
+<td align="center">✅ API Testing Suite</td>
+<td align="center">🔄 Project Flows</td>
+<td align="center">🖥️ E2E User Flow</td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
 
 ## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aya468-svg&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aya468-svg&show_icons=true&theme=radical&hide_border=true" />
-</div>
-
-<br/>
-
-## 📫 Connect with me
-
-<div align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
